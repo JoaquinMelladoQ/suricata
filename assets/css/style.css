@@ -1,0 +1,84 @@
+body {
+    font-family: 'Open Sans';
+    margin: 0px;
+}
+
+nav {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 75px;
+    width: 100%;
+}
+/* Clase compartida entre nav y footer */
+.navbarfooter {
+    background-color: #E83E8C;
+}
+
+h1 {
+    color: #E83E8C;
+}
+
+.navbar-brand img {
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 50%;
+}
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+/* Icons Section */
+
+.icons-section {
+    background-color: #17A2B8;
+    display: inline-block;
+    width: 100%;
+    color: #FFFFFF;
+}
+
+.icons-section h2 {
+    left: 0px;
+    width: 100%;
+    height: 0px;
+    margin: -50px;
+    padding-left: 150px;
+    padding-top: 0px;
+    font-size: 50px;
+}
+
+.icons-section article {
+    padding-left: 600px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    font-size: 7px;
+}
+
+.icons-section article p {
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 9px;
+    padding-bottom: 4px;
+    width: 14%;
+    font-size: 100px;
+}
+
+/*Footer section*/
+
+footer {
+    top: 1377px;
+    left: 0px;
+    width: 100%;
+    height: 184px;
+}
+
+footer img {
+    width: 4%;
+    padding-top: 40px;
+}
+
+
